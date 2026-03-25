@@ -3,7 +3,7 @@
 ### 🚀 Estudante de Ciência da Computação 
 
 Sou apaixonada pela área de tecnologia e atualmente curso o 5º período de **Ciência da Computação** na Universidade Estácio de Sá. 
-]Meu foco está em unir o aprendizado acadêmico com a prática em desenvolvimento de software, suporte técnico e banco de dados.
+Meu foco está em unir o aprendizado acadêmico com a prática em desenvolvimento de software, suporte técnico e banco de dados.
 
 Possuo certificação em **Pacote Office** pela Fundação Bradesco e estou em constante evolução técnica, buscando minha primeira oportunidade de estágio para contribuir e crescer profissionalmente.
 
@@ -41,4 +41,4 @@ Possuo certificação em **Pacote Office** pela Fundação Bradesco e estou em c
 
 ---
 
-[cite_start]*📍 Rio de Janeiro, Brasil* [cite: 2]
+*📍 Rio de Janeiro, Brasil* 
