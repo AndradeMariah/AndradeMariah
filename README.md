@@ -2,25 +2,26 @@
 
 ### 🚀 Estudante de Ciência da Computação 
 
-[cite_start]Sou apaixonada pela área de tecnologia e atualmente curso o 5º período de **Ciência da Computação** na Universidade Estácio de Sá[cite: 6, 8]. [cite_start]Meu foco está em unir o aprendizado acadêmico com a prática em desenvolvimento de software, suporte técnico e banco de dados[cite: 4].
+Sou apaixonada pela área de tecnologia e atualmente curso o 5º período de **Ciência da Computação** na Universidade Estácio de Sá. 
+]Meu foco está em unir o aprendizado acadêmico com a prática em desenvolvimento de software, suporte técnico e banco de dados.
 
-[cite_start]Possuo certificação em **Pacote Office** pela Fundação Bradesco e estou em constante evolução técnica, buscando minha primeira oportunidade de estágio para contribuir e crescer profissionalmente[cite: 15, 16, 24, 25].
+Possuo certificação em **Pacote Office** pela Fundação Bradesco e estou em constante evolução técnica, buscando minha primeira oportunidade de estágio para contribuir e crescer profissionalmente.
 
 ---
 
 ### 🧠 O que eu faço
 
-* [cite_start]💻 **Desenvolvimento**: Conhecimentos em Python e C, com foco em lógica e algoritmos[cite: 11, 14].
-* [cite_start]🗄️ **Banco de Dados**: Prática básica com SQL para manipulação de dados[cite: 12].
+* 💻 **Desenvolvimento**: Conhecimentos em Python e C, com foco em lógica e algoritmos.
+* 🗄️ **Banco de Dados**: Prática básica com SQL para manipulação de dados.
 * 🔧 **Suporte & Hardware**: Experiência prática em manutenção de computadores e resolução de problemas.
-* [cite_start]📚 **Evolução Contínua**: Atualmente aprimorando meu Inglês (nível intermediário) e explorando novas tecnologias[cite: 23, 25].
+* 📚 **Evolução Contínua**: Atualmente aprimorando meu Inglês (nível intermediário) e explorando novas tecnologias.
 
 ---
 
 ### 💼 Competências Pessoais
-* [cite_start]**Proatividade e Organização** [cite: 18, 19]
-* [cite_start]**Comunicação Assertiva** [cite: 20]
-* [cite_start]**Trabalho em Equipe** [cite: 21]
+* **Proatividade e Organização** 
+* **Comunicação Assertiva** 
+* **Trabalho em Equipe** 
 
 ---
 
